@@ -58,13 +58,15 @@ O coração da complexidade fiscal brasileira necessário para toda a gestão do
 
 ### Boleto e arquivos CNAB de recebimento e pagamento
 
-* 🟡 Geração de Boleto de Pagamento registrado e do arquivo de remessa CNAB \(240 ou 400\) para avisar o banco da criação do Boleto
-* 🟡 Gestão do arquivo de retorno do Banco.
-* 🟡 Gestão dos arquivos CNAB de pagamento.
+* 🟡 Geração de Boleto de Pagamento registrado
+* 🟡 Emissão dos arquivos CNAB \(240 ou 400\) de recebimento 
+* 🟡 Emissão dos arquivos CNAB \(240 ou 400\) de pagamento
+* 🟡 Gestão dos arquivos de retorno do Banco
+* 🟡 Reconciliação dos recebimentos e dos pagamentos dados pelos arquivos de retorno com os lançamentos contábeis no Odoo
 
+Como cada banco tem um jeito de comunicar diferente, ainda não é possível cobrar todas essas funcionalidades para todos os bancos brasileiros. Porém, o quanto mais comum o banco, o quanto mais essas funcionalidades já estão operacionais.
 
-
-
+Você pode [entrar em contato com a Akretion](https://akretion.com/pt-BR/contato) para entender melhor qual seria o custo do desenvolvimento dessas funcionalidades para o seu banco.
 
 ## Relatórios contábeis
 
