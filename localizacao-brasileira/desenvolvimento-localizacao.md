@@ -16,7 +16,7 @@ Todos os módulos citados aqui podem ser baixados e usados livremente a partir d
 
 {% embed url="https://github.com/OCA/l10n-brazil" %}
 
-## Fiscalidade
+## 🏛️ Fiscalidade
 
 **Módulo :** [l10n\_br\_fiscal](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_fiscal) \| **Liderado por :** [Akretion](https://github.com/akretion)
 
@@ -54,7 +54,7 @@ O coração da complexidade fiscal brasileira necessário para toda a gestão do
 * 🟡 A Akretion desenvolveu o programa [sped-extractor](https://github.com/akretion/sped-extractor) que recupere automaticamente os milhões de campos \(dados pelos manuais em pdf da SPED\) que têm que ser preenchidos para as suas declarações tributárias e fiscais. Porém esse módulo ainda não foi usado em produção.
 * 🔴 Uma vez esse programa completado precisará ainda de desenvolvimentos para gerar e mandar as declarações da SPED direitamente a partir de Odoo.
 
-## Pagamentos
+## 💳 Pagamentos
 
 ### Boleto e arquivos CNAB de recebimento e pagamento
 
@@ -77,7 +77,7 @@ Você pode [entrar em contato com a Akretion](https://akretion.com/pt-BR/contato
 
 A Akretion desenvolveu \(principalmente com o seu time na França\) ferramentas maduras de comunicação **e conciliação** com gateways de pagamento gringos como [Stripe](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_stripe), [Adyen](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_adyen) e [Paypal](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_paypal), porém eles têm limitações de ação no Brasil.
 
-## Relatórios contábeis
+## 📑 Relatórios contábeis
 
 * 🟢 BP - Balanço Patrimonial.
 * 🟢 DRE - Demonstrativo de Resultado do Exercício.
@@ -91,7 +91,7 @@ Quando dizer que os relatórios contábeis são disponíveis no Odoo, é importa
 Seria teoricamente possível usar esses relatórios contábeis para **declarações oficiais** porém apenas depois de muitas avaliações específicas a cada empresa.
 {% endhint %}
 
-## Folhas de Pagamento
+## 💰 Folha de Pagamento
 
 **Módulos :** [l10n\_br\_hr](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_hr), [l10n\_br\_hr\_contract](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_hr_contract) \| **Liderados por :** [KMEE](https://github.com/kmee)
 
