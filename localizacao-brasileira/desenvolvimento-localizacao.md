@@ -85,7 +85,11 @@ A Akretion desenvolveu \(principalmente com o seu time na França\) ferramentas 
 
 O BP e o DRE estão gerados no Odoo graça ao modúlo [MIS-builder](https://github.com/OCA/mis-builder) da OCA desenvolvido pela empresa [ACSONE](https://github.com/acsone). É um módulo muito poderoso que permite ao próprio usuário criar os seus **relatórios contábeis personalizados**. Uma agilidade que não seria possível com o módulo nativo de relatórios do Odoo.
 
-⚠️ Quando dizer que os relatórios contábeis são disponíveis no Odoo, é importante notar que seria para uma contabilidade de **gestão** interna. Seria teoricamente possível usar esses relatórios contábeis para **declarações oficiais** porém apenas de muitas avaliações específicas a cada empresa.
+{% hint style="warning" %}
+Quando dizer que os relatórios contábeis são disponíveis no Odoo, é importante notar que seria para uma contabilidade de **gestão** **interna**.
+
+Seria teoricamente possível usar esses relatórios contábeis para **declarações oficiais** porém apenas depois de muitas avaliações específicas a cada empresa.
+{% endhint %}
 
 ## Folhas de Pagamento
 
