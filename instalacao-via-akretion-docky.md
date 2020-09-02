@@ -90,7 +90,7 @@ $ docky run
 ```
 
 {% hint style="info" %}
-Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+Super-powers are granted randomly so please [submit an issue](https://github.com/akretion/docky/issues) if you're not happy with yours.
 {% endhint %}
 
 Após executar o docky run será criado os containers da sua aplicação e depois entrará no terminal do container principal, para executar o Odoo você deve executar o comando:
