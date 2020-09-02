@@ -8,7 +8,7 @@ description: Instalando o Odoo usando docker-compose via Akretion Docky
 
 Para fazer a instalação do [Docky](https://github.com/akretion/docky) você precisa ter em seu ambiente o Docker CE instalado em seu ambiente, após a instalação:
 
-## Instalação do Docky
+### Instalação do Docky
 
 Para instalar o docky basta instalar :
 
@@ -22,7 +22,7 @@ Caso você já tenha feito a instalação antes, certifique-se que tem a versão
 
 Caso queira saber mais informações sobre funcionalidades avançadas do docky acesse a documentação do projeto 👉[aqui](https://github.com/akretion/ak/blob/master/README.md).
 
-## Instalação do AK
+### Instalação do AK
 
 Para automatizar tarefas básicas do seu projeto docky você pode instalar a ferramenta [AK](https://github.com/akretion/ak).
 
