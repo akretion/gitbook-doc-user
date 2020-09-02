@@ -75,7 +75,7 @@ Você pode [entrar em contato com a Akretion](https://akretion.com/pt-BR/contato
 * 🟡 Comunicação com os gateway de pagamento. Existe protótipos de módulos para comunicar com os gateway de pagamento mais comum como [Cielo](https://github.com/OCA/l10n-brazil/pull/943) ou Pagseguro.
 * 🔴 Conciliação dos pagamentos via um gateway \(brasileiro\) com os lançamentos contábeis no Odoo.  
 
-A Akretion desenvolveu \(principalmente com o seu time na França\) ferramentas maduras de comunicação **e conciliação** com gateways de pagamento gringos como [Stripe](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_stripe), [Adyen](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_adyen) e [Paypal](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_paypal), porém eles têm limitações de ação no Brasil.
+A Akretion desenvolveu \(principalmente com o seu time na França\) ferramentas maduras de comunicação **e conciliação** com gateways de pagamento, porém gringos como [Stripe](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_stripe), [Adyen](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_adyen) e [Paypal](https://github.com/akretion/payment-gateway/tree/12/payment_gateway_paypal),  e eles têm limitações de ação no Brasil.
 
 ## 📑 Relatórios contábeis
 
