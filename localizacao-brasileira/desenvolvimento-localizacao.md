@@ -115,5 +115,7 @@ Na mesma ideia, não é possível gerar o eSocial inteiro a partir do Odoo, por�
 
 ## Cálculo dos custos de entrega
 
+**Módulo :** [delivery\_correio](https://github.com/Code-137/odoo-apps/blob/13.0/delivery_correios/) **\| Liderado por :** [Code-137](https://github.com/Code-137/)
 
+* 🟡 Calcular o custo de entrega de um produto no Brasil inteiro.
 
