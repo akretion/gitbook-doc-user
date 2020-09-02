@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Odoo para usuários](README.md)
+* [Instalação via Akretion Docky](instalacao-via-akretion-docky.md)
 
 ## 🇧🇷 Localização Brasileira
 
