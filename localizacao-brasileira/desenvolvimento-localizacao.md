@@ -93,9 +93,25 @@ Seria teoricamente possível usar esses relatórios contábeis para **declaraç�
 
 ## Folhas de Pagamento
 
+**Módulos :** [l10n\_br\_hr](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_hr), [l10n\_br\_hr\_contract](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_hr_contract) \| **Liderados por :** [KMEE](https://github.com/kmee)
 
+* 🟢 Campos específicos para o cadastro de empregados brasileiros
+* 🟢 Campos específicos para os contratos de empregados brasileiros
+* 🟢 Gestão das feiras e das folhas de tempo
+* 🟢 Exportações das informações necessárias para a geração das folhas de pagamento
+* 🔴 Geração das folhas de pagamento do Odoo mesmo
+* 🔴 Geração do eSocial inteiro do Odoo
 
-## Campos especiais
+Como o formato das folhas de pagamento varia em cada estado, precisaria de muitos desenvolvimentos para gerá-las a partir do Odoo, enquanto a exportação das informações já permite criar as folhas por um software externo facilmente \(porém manualmente\).
+
+Na mesma ideia, não é possível gerar o eSocial inteiro a partir do Odoo, porém é possível exportar as informações necessárias à geração do eSocial por um software externo.
+
+## Campos específicos brasileiros
+
+**Módulo :** [l10n\_br\_base](https://github.com/OCA/l10n-brazil/tree/12.0/l10n_br_base) \| **Liderado por :** [Akretion](https://github.com/akretion)
+
+* 🟢 CPF, Inscrição Estadual, NCM... A integralidade dos campos específicos ao Brasil estão presente e totalmente integrados em todos os módulos do Odoo.
+* 🟢 Busca do endereço automaticamente pelo CEP.
 
 ## Cálculo dos custos de entrega
 
