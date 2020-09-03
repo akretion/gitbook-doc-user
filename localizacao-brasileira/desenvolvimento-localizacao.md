@@ -66,7 +66,7 @@ O coração da complexidade fiscal brasileira necessário para toda a gestão do
 
 Como cada banco tem um jeito de comunicar diferente, ainda não é possível cobrar todas essas funcionalidades para todos os bancos brasileiros. Porém, o quanto mais comum o banco, o quanto mais essas funcionalidades já estão operacionais.
 
-Você pode [entrar em contato com a Akretion](https://akretion.com/pt-BR/contato) para entender melhor qual seria o custo do desenvolvimento dessas funcionalidades para o seu banco.
+💬 Você pode [entrar em contato com a Akretion](https://akretion.com/pt-BR/contato) para entender melhor qual seria o custo do desenvolvimento dessas funcionalidades para o seu banco.
 
 ### Gateway de pagamento
 
