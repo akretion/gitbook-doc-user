@@ -3,6 +3,10 @@
 * [Odoo para usuários](README.md)
 * [Instalação via Akretion Docky](instalacao-via-akretion-docky.md)
 
+## 🔧 Parametrização Inicial
+
+* [Cadastrar dados básicos](parametrizacao-inicial/cadastrar-dados-basicos.md)
+
 ## 🇧🇷 Localização Brasileira
 
 * [Desenvolvimento da localização](localizacao-brasileira/desenvolvimento-localizacao.md)
