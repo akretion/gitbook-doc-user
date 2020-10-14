@@ -5,6 +5,7 @@
 
 ## 🔧 Parametrização Inicial
 
+* [Documentação introdutiva](parametrizacao-inicial/documentacao-introdutiva.md)
 * [Cadastrar dados básicos](parametrizacao-inicial/cadastrar-dados-basicos.md)
 
 ## 🇧🇷 Localização Brasileira

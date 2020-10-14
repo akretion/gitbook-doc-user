@@ -4,29 +4,15 @@ description: 'Tutorial realizado pela Akretion - http://akretion.com/pt-BR'
 
 # Cadastrar dados básicos
 
-## **Documentação introdutiva básica do Odoo**
+## **Documentação sobre a importação de cadastros**
 
-A documentação do Odoo pode abordar alguns temas avançados, mas esses links ensinam coisas básicas que são fáceis de testar com um banco de demo é são bons exemplos para se familiarizar com a navegação e as telas do Odoo antes de partir para cadastrar os dados reais da empresa.
+De acordo com cada projeto, alguns cadastros podem ser digitados **manualmente** como os cadastros de empresa ou de operações fiscais.
 
-{% embed url="https://www.odoo.com/documentation/user/12.0/crm.html" %}
+Para alguns outros cadastros pode ser interessante de **importar** dados de outros sistemas. Seguem aqui tutoriais básicos para [importar clientes e fornecedores](https://odoo-doc.gitbook.io/import/v/pt/importar-contatos), [projetos](https://odoo-doc.gitbook.io/import/v/pt/importar-projetos) e [produtos](https://odoo-doc.gitbook.io/import/v/pt/importar-produtos). Os conceitos são genéricos e podem servir para importar e exportar qualquer cadastro:
 
-{% embed url="https://www.odoo.com/documentation/user/12.0/project.html" %}
+{% embed url="https://odoo-doc.gitbook.io/import/v/pt/" %}
 
-{% embed url="https://www.odoo.com/documentation/user/12.0/discuss.html" %}
-
-## **Documentação sobre importação de cadastros**
-
-De acordo com cada projeto, alguns cadastros podem ser digitados manualmente como os cadastros de empresa ou de operações fiscais. E para alguns outros cadastros pode ser interessante de importar dados de outros sistemas. Seguem aqui tutoriais básicos para importar clientes e fornecedores, projetos e produtos. Os conceitos são genéricos e podem servir para importar e exportar qualquer cadastro:
-
-[https://odoo-doc.gitbook.io/import/v/pt/](https://odoo-doc.gitbook.io/import/v/pt/)
-
-[https://odoo-doc.gitbook.io/import/v/pt/importar-contatos](https://odoo-doc.gitbook.io/import/v/pt/importar-contatos)
-
-[https://odoo-doc.gitbook.io/import/v/pt/importar-projetos](https://odoo-doc.gitbook.io/import/v/pt/importar-projetos)
-
-[https://odoo-doc.gitbook.io/import/v/pt/importar-produtos](https://odoo-doc.gitbook.io/import/v/pt/importar-produtos)
-
-## **Passo a passo dos cadastros iniciais**
+## **Passo a passo dos cadastros iniciais manuais**
 
 ### **Empresas**
 
@@ -38,7 +24,7 @@ De acordo com cada projeto, alguns cadastros podem ser digitados manualmente com
 
 ### **Usuários**
 
-Em especial, você pode atribuir empresas e grupos de acesso para cada usuário.
+Especialmente, você pode atribuir empresas e grupos de acesso para cada usuário.
 
 ![](../.gitbook/assets/2020-10-14_12-32-1-.png)
 
