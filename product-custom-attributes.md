@@ -1,10 +1,10 @@
 ---
-description: Créer des champs à volonté... sans surcharger la base de donnée !
+description: Gestion centralisée des informations sur les produits
 ---
 
-# Product Custom Attributes
+# PIM - Product Information Management
 
-Modules développés par Akrétion : [https://github.com/shopinvader/odoo-pim/pull/6](https://github.com/shopinvader/odoo-pim/pull/6)
+Modules développés principalement par [Akretion](http://akretion.com) et [ACSONE](http://acsone.eu) comme partie du projet d'e-commerce open-source [Shopinvader](https://shopinvader.com/) : [https://github.com/shopinvader/odoo-pim/](https://github.com/shopinvader/odoo-pim)
 
 ## Objectif
 
