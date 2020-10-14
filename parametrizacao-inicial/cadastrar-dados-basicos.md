@@ -32,15 +32,17 @@ De acordo com cada projeto, alguns cadastros podem ser digitados manualmente com
 
 ![](../.gitbook/assets/2020-10-14_17-39.png)
 
+![](../.gitbook/assets/2020-10-14_12-30-1-.png)
+
 ![](https://lh6.googleusercontent.com/Hn2i3afbaR5dJyxTXsGH6fXKYC9WNBd1b6ATa-qsl3GIBl9uM57yEH0fXHK-gTxMVG9_BXTixB4DTFoDD9iYfJvfwlDzac7ZWe60kMmWzsYDz7WtI5NwLXjIf0HivedNTFuHImHf)
 
-![](https://lh4.googleusercontent.com/PX46GNjE5WEJEk9lCEzSMsZMa1-vIvKURKrwOxbf0wpiacx9nCictNZhA14LdlS1QDGVZMu0RJe2CgiX4sDOmCXcTVyItc8thIDUXR8P8ryarZpeRDr3L9rjHFOD7FLzLGBGwrgC)
+### \*\*\*\*
 
 ### **Usuários**
 
 Em especial, você pode atribuir empresas e grupos de acesso para cada usuário.
 
-![](https://lh5.googleusercontent.com/WiebNCKdFo5Ik8uGpc_etk_BLe-EHyxo9pn17a6kPnYlirg2A2H3m9FkbJfv59mpMlYiUQKIGudx8i3aHudGuXrSUk-901bP-kDcwBlnThW2-90Q2rx28hdFfzAO2kXGRpnlJyRU)
+![](../.gitbook/assets/2020-10-14_12-32-1-.png)
 
 ### **Funcionários** 
 
