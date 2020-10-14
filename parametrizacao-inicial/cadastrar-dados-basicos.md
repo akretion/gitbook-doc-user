@@ -36,8 +36,6 @@ De acordo com cada projeto, alguns cadastros podem ser digitados manualmente com
 
 ![](https://lh6.googleusercontent.com/Hn2i3afbaR5dJyxTXsGH6fXKYC9WNBd1b6ATa-qsl3GIBl9uM57yEH0fXHK-gTxMVG9_BXTixB4DTFoDD9iYfJvfwlDzac7ZWe60kMmWzsYDz7WtI5NwLXjIf0HivedNTFuHImHf)
 
-### \*\*\*\*
-
 ### **Usuários**
 
 Em especial, você pode atribuir empresas e grupos de acesso para cada usuário.
