@@ -21,7 +21,7 @@
 
 * [Lista de Preços de venda](vendas/lista-de-precos.md)
 
-## Fiscal
+## 🏛️ Fiscal
 
 * [Documentos](fiscal/documentos/README.md)
   * [Documentos Fiscais](fiscal/documentos/documentos-fiscais.md)
