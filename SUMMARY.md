@@ -12,14 +12,14 @@
 
 * [Desenvolvimento da localização](localizacao-brasileira/desenvolvimento-localizacao.md)
 
+## 🤝 Vendas
+
+* [Lista de Preços de venda](vendas/lista-de-precos.md)
+
 ## 🧾 Faturamento
 
 * [Modos de Pagamento](faturamento/modos-de-pagamento.md)
 * [Posições Fiscais](faturamento/posicoes-fiscais.md)
-
-## 🤝 Vendas
-
-* [Lista de Preços de venda](vendas/lista-de-precos.md)
 
 ## 🏛️ Fiscal
 
