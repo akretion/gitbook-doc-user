@@ -18,13 +18,13 @@ Módulos desenvolvidos principalmente pela [Akretion](http://akretion.com/pt_BR)
 
 Ao criar um Atributo de produto, você cria um novo campo disponível em todos os produtos do mesmo **Conjunto de Atributo** e visível na aba "_Atributos_" do formulário do produto :
 
-![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2852%29.png)
+![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2853%29.png)
 
 ### Criação de um Atributo
 
 Um _Atributo_ pode ser um campo pre-existante no Odoo \(_Nativo_\) ou um novo campo criado de zero \(_Custom_\), e pode ser de qualquer tipo \(booleano, texto, seleção múltipla...\) :
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 {% hint style="info" %}
 Um Atributo do tipo "Binário" é uma imagem ou um arquivo.
