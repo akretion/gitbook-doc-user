@@ -48,7 +48,7 @@ Pour que les _Options_ d'un Attribut de _Sélection_ pointent vers des objets ex
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
-Pour chaque élément de la liste **Complétude** on peut déterminer quel est le **taux de complétude** apporté par le remplissage de cet attribut dans une fiche produit.
+Pour chaque élément de la liste **Complétude** il est nécessaire de définir quel est le **taux de complétude** apporté par le remplissage de cet attribut dans une fiche produit.
 
 {% hint style="info" %}
 La somme des _Taux de Complétude_ doit être obligatoirement égale à 100.
