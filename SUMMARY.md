@@ -14,7 +14,7 @@
 
 ## 🤝 Vendas
 
-* [PIM - Product Information Management](vendas/pim-product-information-management.md)
+* [PIM - Product Information Management](vendas/pim.md)
 * [Lista de Preços de venda](vendas/lista-de-precos.md)
 
 ## 🧾 Faturamento
