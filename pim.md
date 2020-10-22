@@ -22,7 +22,7 @@ En créant un _Attribut de produit_, on crée un nouveau champ disponible pour t
 
 ### Création d'un Attribut
 
-Un **Attribut** peut être un champ déjà existant dans Odoo \(Natif\) ou créé pour l'occasion \(Custom\) et peut être de n'importe quel type \(booléen, texte, sélection multiple...\)
+Un **Attribut** peut être un champ déjà existant dans Odoo \(_Natif_\) ou créé pour l'occasion \(_Custom_\) et peut être de n'importe quel **type** \(booléen, texte, sélection multiple...\)
 
 ![](.gitbook/assets/image%20%2841%29.png)
 
