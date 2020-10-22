@@ -10,7 +10,7 @@ Módulos desenvolvidos principalmente pela [Akretion](http://akretion.com/pt_BR)
 
 ✨ Juntar no mesmo aplicativo a gestão de todas as informações dos produtos.
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 ## Atributos e Conjuntos de Atributos de produtos
 
@@ -18,13 +18,13 @@ Módulos desenvolvidos principalmente pela [Akretion](http://akretion.com/pt_BR)
 
 Ao criar um Atributo de produto, você cria um novo campo disponível em todos os produtos do mesmo **Conjunto de Atributo** e visível na aba "_Atributos_" do formulário do produto :
 
-![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2850%29.png)
+![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2851%29.png)
 
 ### Criação de um Atributo
 
 Um _Atributo_ pode ser um campo pre-existante no Odoo \(_Nativo_\) ou um novo campo criado de zero \(_Custom_\), e pode ser de qualquer tipo \(booleano, texto, seleção múltipla...\) :
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 {% hint style="info" %}
 Um Atributo do tipo "Binário" é uma imagem ou um arquivo.
@@ -40,9 +40,17 @@ Um Atributo do tipo "Binário" é uma imagem ou um arquivo.
 
 Para que essas Opções sejam objetos existentes no Odoo, basta escolher o **Modelo relacionado** e selecionar alguns objetos desse Modelo, que seja manualmente pelo botão "_Selecionar Opções de Atributo_" ou definindo um "_Domínio_" seguindo a [sintaxe própria a Odoo](http://www.erpish.com/odoo/how-to-use-domains-to-filter-data-records-in-odoo/).
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 ### Completude de um produto
+
+🌡️É possível dizer se as informações de um produto estão **completas ou não**, graça à seleção de Atributos da lista "**Completude**" do _Conjunto de Atributo_ desse produto :
+
+![](../.gitbook/assets/image%20%2844%29.png)
+
+
+
+
 
 
 
