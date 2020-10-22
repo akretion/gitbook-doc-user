@@ -59,7 +59,7 @@ La liste des attributs à compléter étant disponible en tête de l'onglet "_At
 {% hint style="warning" %}
 Il est possible que certaines informations ne s'affichent pas directement quand on change la valeur d'un Jeu d'Attribut d'un produit ou qu'on rempli un  champ à compléter.
 
-Dans ces cas, il faut penser à **rafraîchir la page de son navigateur** afin de synchroniser les données affichées avec les données réellement enregistrées en base de donnée.
+🔄 Dans ces cas, il faut penser à **rafraîchir la page de son navigateur** afin de synchroniser les données affichées avec les données réellement enregistrées en base de donnée.
 {% endhint %}
 
 
