@@ -8,7 +8,7 @@ Modules développés principalement par [Akretion](http://akretion.com) et [ACSO
 
 ## Objectif
 
-Regrouper dans une même application la gestion des informations sur les produits.
+✨ Regrouper dans une même application la gestion des informations sur les produits.
 
 ![](.gitbook/assets/image%20%2826%29.png)
 
@@ -44,7 +44,7 @@ Pour que les _Options_ d'un Attribut de _Sélection_ pointent vers des objets ex
 
 ### Complétude d'un Jeu d'Attribut
 
-Il est possible de déterminer si les informations d'un produit sont **complètes ou non** grâce aux attributs choisis dans la liste **Complétude** du _Jeu d'Attribut_ de ce produit :
+🌡️Il est possible de déterminer si les informations d'un produit sont **complètes ou non** grâce aux attributs choisis dans la liste **Complétude** du _Jeu d'Attribut_ de ce produit :
 
 ![](.gitbook/assets/image%20%2822%29.png)
 
