@@ -42,7 +42,7 @@ Pour que les _Options_ d'un Attribut de _Sélection_ pointent vers des objets ex
 
 ![](.gitbook/assets/image%20%2843%29.png)
 
-### Complétude d'un Jeu d'Attribut
+### Complétude d'un produit
 
 🌡️Il est possible de déterminer si les informations d'un produit sont **complètes ou non** grâce aux attributs choisis dans la liste **Complétude** du _Jeu d'Attribut_ de ce produit :
 
