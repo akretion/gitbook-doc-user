@@ -50,6 +50,10 @@ Pour que les _Options_ d'un Attribut de _Sélection_ pointent vers des objets ex
 
 Pour chaque élément de la liste **Complétude** on peut déterminer quel est le **taux de complétude** apporté par le remplissage de cet attribut dans une fiche produit.
 
+{% hint style="info" %}
+La somme des _Taux de Complétude_ doit être obligatoirement égale à 100.
+{% endhint %}
+
 Par exemple ici, si seuls les champs "_Pays de destination possibles_" et "_Description Technique_" sont remplis, les informations du produit ne seront "_remplies qu'à 25%_" :
 
 ![](.gitbook/assets/image%20%2833%29.png)
