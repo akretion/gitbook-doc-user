@@ -10,7 +10,7 @@ Módulos desenvolvidos principalmente pela [Akretion](http://akretion.com/pt_BR)
 
 ✨ Juntar no mesmo aplicativo a gestão de todas as informações dos produtos.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 ## Atributos e Conjuntos de Atributos de produtos
 
@@ -18,7 +18,7 @@ Módulos desenvolvidos principalmente pela [Akretion](http://akretion.com/pt_BR)
 
 Ao criar um Atributo de produto, você cria um novo campo disponível em todos os produtos do mesmo **Conjunto de Atributo** e visível na aba "_Atributos_" do formulário do produto :
 
-![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2851%29.png)
+![Atributos de um produto do Conjunto de Atributo &quot;M&#xF3;vel&quot;](../.gitbook/assets/image%20%2852%29.png)
 
 ### Criação de um Atributo
 
@@ -40,7 +40,7 @@ Um Atributo do tipo "Binário" é uma imagem ou um arquivo.
 
 Para que essas Opções sejam objetos existentes no Odoo, basta escolher o **Modelo relacionado** e selecionar alguns objetos desse Modelo, que seja manualmente pelo botão "_Selecionar Opções de Atributo_" ou definindo um "_Domínio_" seguindo a [sintaxe própria a Odoo](http://www.erpish.com/odoo/how-to-use-domains-to-filter-data-records-in-odoo/).
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 ### Completude de um produto
 
@@ -48,7 +48,23 @@ Para que essas Opções sejam objetos existentes no Odoo, basta escolher o **Mod
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 
+Para cada elemento da lista Completude, é necessário definir qual é a "Taxa de Completude" trazida pelo preenchimento do elemento no registro de um produto.
 
+{% hint style="info" %}
+A soma de todas as Taxas de Completude deve obrigatoriamente ser 100.
+{% endhint %}
+
+Por exemplo aqui, apenas os campos "_Países de destinação possíveis_" e "_Descrição Técnica_" estão preenchidos, então "_apenas 25% das informações do produto_" estão registradas :
+
+![](../.gitbook/assets/image%20%2848%29.png)
+
+A lista dos Atributos "_a serem preenchidos_" aparecendo no topo da aba dos Atributos.
+
+{% hint style="warning" %}
+É possível que as informações calculadas a partir do preenchimento de um atributo ou a partir do Conjunto de Atributo selecionado não apareçam direitamente quando preencher um campo.
+
+🔄 Nesses casos, é bom lembrar de **atualizar o seu navegador** para sincronizar as informações exibidas com as informações registradas de verdade no banco de dados.
+{% endhint %}
 
 
 
