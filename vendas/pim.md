@@ -1,5 +1,5 @@
 ---
-description: Gestão avançada e centralizada dos Produtos
+description: Gestão avançada e centralizada das informações dos Produtos
 ---
 
 # PIM - Product Information Management
