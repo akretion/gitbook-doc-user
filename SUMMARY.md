@@ -19,8 +19,15 @@
 
 ## 🧾 Faturamento
 
-* [Modos de Pagamento](faturamento/modos-de-pagamento.md)
-* [Posições Fiscais](faturamento/posicoes-fiscais.md)
+* [Faturas de Clientes](faturamento/faturas-de-clientes.md)
+* [Faturas de Fornecedores](faturamento/faturas-de-fornecedores.md)
+* [Configuração](faturamento/configuracao/README.md)
+  * [Contabilidade](faturamento/configuracao/contabilidade/README.md)
+    * [Diário](faturamento/configuracao/contabilidade/diario.md)
+    * [Impostos](faturamento/configuracao/contabilidade/impostos.md)
+    * [Posições Fiscais](faturamento/configuracao/contabilidade/posicoes-fiscais.md)
+  * [Condição de Pagamento](faturamento/configuracao/condicao-de-pagamento.md)
+  * [Modos de Pagamento](faturamento/configuracao/modos-de-pagamento.md)
 
 ## 🏛️ Fiscal
 
