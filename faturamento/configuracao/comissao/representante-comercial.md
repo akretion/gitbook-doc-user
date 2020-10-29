@@ -38,7 +38,9 @@ Ou informar em um Pedido de Venda:
 
 ![](../../../.gitbook/assets/image%20%2875%29.png)
 
-Veja que como para esse cliente foi pré definido o Representante, no cadastro do Cliente, ao criar uma nova linha o campo já será preenchido automaticamente, podendo também ser alterado se necessário, e nos valores totais será mostrado o valor total das comissões
+Como para esse cliente foi pré definido o Representante, no cadastro do Cliente, ao criar uma nova linha o campo já será preenchido automaticamente, podendo também ser alterado se necessário.
+
+ O valor total das comissões do Pedido de Venda será mostrado junto com os outros totais:
 
 ![](../../../.gitbook/assets/image%20%2858%29.png)
 
