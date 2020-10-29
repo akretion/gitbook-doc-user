@@ -4,15 +4,15 @@ Cadastro referente a quantidade de parcelas que serão criadas para saldar um Pa
 
  Faturamento &gt; Configuração &gt; Administração &gt; Condições de Pagamento
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Clique em Criar para adicionar uma nova Condição, veja um exemplo:
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
 Clique em Adicionar uma Linha para informar as Parcelas, veja que no Tipo do Termo está sendo utilizado o Percentual para esse exemplo, como serão três parcelas na primeira o valor será 33,3 \( 33,3 + 33,3 + Saldo \).
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Também existe outras parametrizações possíveis referentes ao Cálculo da Data de Vencimento, dependendo da configuração necessária.
 
@@ -26,11 +26,11 @@ Em seguida para a última Parcela no Tipo de Termo deixe Saldo assim o valor res
 
 
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Clique em Save & Close \( Salvar & Fechar , está faltando a tradução \) e em Salvar
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2875%29.png)
 
 Agora já será possível informar a Condição de Pagamento no Pedido de Venda:
 
@@ -38,7 +38,7 @@ Agora já será possível informar a Condição de Pagamento no Pedido de Venda:
 
 No Pedido de Compra, aba Outras Informações:
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 Ou mesmo pré definir no cadastro tanto do Cliente como Fornecedor, na aba Compras e Vendas a Condição de Pagamento padrão para cada um:
 

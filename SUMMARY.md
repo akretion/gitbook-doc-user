@@ -22,6 +22,8 @@
 * [Faturas de Clientes](faturamento/faturas-de-clientes.md)
 * [Faturas de Fornecedores](faturamento/faturas-de-fornecedores.md)
 * [Configuração](faturamento/configuracao/README.md)
+  * [Comissão](faturamento/configuracao/comissao/README.md)
+    * [Representante Comercial](faturamento/configuracao/comissao/representante-comercial.md)
   * [Tipos de Comissão](faturamento/configuracao/tipos-de-comissao.md)
   * [Contabilidade](faturamento/configuracao/contabilidade/README.md)
     * [Diário](faturamento/configuracao/contabilidade/diario.md)
