@@ -10,7 +10,7 @@ Modules développés principalement par [Akretion](http://akretion.com) et [ACSO
 
 ✨ Regrouper dans une même application la gestion des informations sur les produits.
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ## Attributs et Jeux d'Attributs de produits
 
@@ -18,13 +18,13 @@ Modules développés principalement par [Akretion](http://akretion.com) et [ACSO
 
 En créant un _Attribut de produit_, on crée un nouveau champ disponible pour tous les produits appartenant au même **Jeu d'Attribut**, et visible dans l'onglet "_Attributs_" de la fiche du produit :
 
-![Attributs d&apos;un produit du Jeu d&apos;Attributs &quot;Meuble&quot;](.gitbook/assets/image%20%2835%29.png)
+![Attributs d&apos;un produit du Jeu d&apos;Attributs &quot;Meuble&quot;](../.gitbook/assets/image%20%2835%29.png)
 
 ### Création d'un Attribut
 
 Un **Attribut** peut être un champ déjà existant dans Odoo \(_Natif_\) ou créé pour l'occasion \(_Custom_\) et peut être de n'importe quel **type** \(booléen, texte, sélection multiple...\)
 
-![](.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 {% hint style="info" %}
 Un Attribut de type "_Binaire_" est un fichier ou une image.
@@ -40,13 +40,13 @@ Un Attribut de type "_Binaire_" est un fichier ou une image.
 
 Pour que les _Options_ d'un Attribut de _Sélection_ pointent vers des objets existants dans Odoo, il suffit de sélectionner le **Modèle Associé** de l'Attribut puis d'ajouter les _Options_ soit manuellement via le bouton "_Choisir les Options de l'Attribut_", soit en définissant un _Domaine_ avec la [syntaxe propre à Odoo](http://www.erpish.com/odoo/how-to-use-domains-to-filter-data-records-in-odoo/).
 
-![](.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ### Complétude d'un produit
 
 🌡️Il est possible de déterminer si les informations d'un produit sont **complètes ou non** grâce aux attributs choisis dans la liste **Complétude** du _Jeu d'Attribut_ de ce produit :
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
 Pour chaque élément de la liste **Complétude** il est nécessaire de définir quel est le **taux de complétude** apporté par le remplissage de cet attribut dans une fiche produit.
 
@@ -56,7 +56,7 @@ La somme des _Taux de Complétude_ doit être obligatoirement égale à 100.
 
 Par exemple ici, si seuls les champs "_Pays de destination possibles_" et "_Description Technique_" sont remplis, les informations du produit ne seront "_remplies qu'à 25%_" :
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
 La liste des attributs à compléter étant disponible en tête de l'onglet "_Attributs_".
 
