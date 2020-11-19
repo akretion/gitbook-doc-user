@@ -22,5 +22,5 @@ Pour acheter ou vendre dans des unités de **catégories différentes** ou bien 
 
 * J'achète une certaine quantité de planches en bois de dimensions définies \(par exemple 200x20x3 cm\) &gt;&gt; Unité de mesure secondaire d'achat de la catégorie "_Unité_"
 * J'utilise une certaine de longueur de ces planches en bois dans un Ordre de Production &gt;&gt; Unité de mesure principale de la catégorie "_Longueur/distance_".
-* La gestion des unités de mesure secondaire par article permet de comprendre qu'il faut utiliser 1,5 unités de planche en bois pour si l'ordre de production a besoin de 3 mètres de planche. 
+* La gestion des unités de mesure secondaire par article permet de comprendre qu'il faut utiliser **1,5 unités de ce type de planche en bois** si l'ordre de production a besoin de **3 mètres de planche**. 
 
