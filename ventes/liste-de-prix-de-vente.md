@@ -42,9 +42,9 @@ Une fois que la configuration "_Plusieurs prix de vente par produit_" est activ�
 
 En pratique, une "Liste de prix" est seulement un nom pour différencier certains clients \(ou devis\) des autres.
 
-Au cas où l'option "Multi-devises" est sélectionnée dans le menu des Configuration de l'application "Facturation", il sera possible d'associer une devise à chaque "groupe de client". Cela définira la devise spécifique pour le tarif d'un produit associé à ce "groupe de client".
+Au cas où l'option "Multi-devises" est sélectionnée dans le menu des Configuration de l'application "Facturation", il est possible d'**associer une devise** à chaque "groupe de client". Cela définit la devise spécifique pour le tarif d'un produit associé à ce "groupe de client".
 
 ![](../.gitbook/assets/image%20%2891%29.png)
 
-Enfin, on voit qu'il est possible de définir de manière facultative une sélection de "_Groupes de pays_" pour chaque objet "_Liste de Prix_". Cela permet de remplir automatiquement le champ "_Liste de Prix_" lors de la création d'un nouveau contact si son pays fait partie de ces "_Groupes de pays_".
+Enfin, on voit qu'il est possible de définir de manière facultative une sélection de "_Groupes de pays_" pour chaque objet "_Liste de Prix_". Cela permet de **remplir automatiquement le champ "**_**Liste de Prix**_**" d'un contact** lors de sa création si son pays fait partie de ces "_Groupes de pays_".
 
