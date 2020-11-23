@@ -28,35 +28,35 @@ Il est possible de créer un objet "RMA" de plusieurs manières :
 
 ![](../.gitbook/assets/image%20%2897%29.png)
 
-* soit **depuis un mouvement de stock** sortant réalisé, avec le bouton "Retourner" et l'option "Create RMAs" cochée.
+* soit **depuis un mouvement de stock** sortant \(réalisé\), avec le bouton "Retourner" et l'option "Create RMAs" cochée.
 
 ![](../.gitbook/assets/image%20%2896%29.png)
 
 ## Réception \(du produit retourné\) liée à cet objet "RMA"
 
-Lorsqu'un RMA est confirmé, un mouvement de stock entrant "Receipt" est créé automatiquement :
+Lorsqu'un RMA est confirmé, un mouvement de stock entrant "_Receipt_" est créé automatiquement :
 
 ![](../.gitbook/assets/image%20%28100%29.png)
 
-Il faut alors confirmer le mouvement de stock de réception du produit retourné afin de faire apparaître les boutons des actions possibles :
+Il faut alors **confirmer le mouvement de stock** de réception du produit retourné afin de faire apparaître les boutons des actions possibles :
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
 ## Actions après réception du produit retourné
 
-Une fois le produit reçu, Odoo propose 3 types d'action explicites :
+Une fois le produit reçu, Odoo propose 3 types d'actions explicites :
 
 ![](../.gitbook/assets/image%20%28102%29.png)
 
-"_**To Refund**_" va associer un _Avoir_ à l'objet RMA :
+* "_**To Refund**_" va associer un _Avoir_ à l'objet RMA :
 
 ![](../.gitbook/assets/image%20%2892%29.png)
 
-"_**Replace**_" va associer un mouvement de stock sortant \(vers le client\) d'un autre produit : 
+* "_**Replace**_" va associer un mouvement de stock sortant \(retour vers le client\) d'un autre produit : 
 
 ![](../.gitbook/assets/image%20%28101%29.png)
 
-"_**Return to customer**_" va associer un mouvement de stock sortant \(vers le client\) du même type de produit :
+* "_**Return to customer**_" va associer un même type de mouvement de stock sortant \(retour vers le client\), mais cette fois-ci du même type de produit :
 
 ![](../.gitbook/assets/image%20%2899%29.png)
 
