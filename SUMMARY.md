@@ -11,6 +11,7 @@
 
 * [PIM - Product Information Management](ventes/pim.md)
 * [Liste de Prix de vente](ventes/liste-de-prix-de-vente.md)
+* [RMA - Retour de Marchandise](ventes/rma-retour-de-marchandise.md)
 
 ## 📦 Inventaire
 
