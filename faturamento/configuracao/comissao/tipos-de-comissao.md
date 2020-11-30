@@ -4,13 +4,13 @@ O cadastro de Tipos de Comissão é onde será informado os valores usados para 
 
 Vendas &gt; Gerenciamento de Comissões &gt; Tipos de Comissões
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../../.gitbook/assets/image%20%2876%29.png)
 
 Clique em Criar para um novo cadastro
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../../.gitbook/assets/image%20%2864%29.png)
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../../.gitbook/assets/image%20%2865%29.png)
 
 
 
@@ -24,15 +24,15 @@ Veja que existem algumas opções de parametrizações que podem ser feitas de a
 
   
 
-![](../../.gitbook/assets/image%20%2860%29.png)
+![](../../../.gitbook/assets/image%20%2860%29.png)
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../../.gitbook/assets/image%20%2855%29.png)
 
 * Base
 
         Se o valor será baseado no Montante Bruto ou Líquido
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../../.gitbook/assets/image%20%2863%29.png)
 
 * Situação da Fatura  - essa opção define em que vai ser baseado o pagamento da comissão
 
@@ -40,7 +40,7 @@ Veja que existem algumas opções de parametrizações que podem ser feitas de a
 
        Baseado no Pagamento - nesse caso o pagamento da comissão será feito quando a Fatura estiver Paga.
 
-![](../../.gitbook/assets/image%20%2874%29.png)
+![](../../../.gitbook/assets/image%20%2874%29.png)
 
 
 

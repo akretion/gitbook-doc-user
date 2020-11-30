@@ -24,7 +24,7 @@
 * [Configuração](faturamento/configuracao/README.md)
   * [Comissão](faturamento/configuracao/comissao/README.md)
     * [Representante Comercial](faturamento/configuracao/comissao/representante-comercial.md)
-  * [Tipos de Comissão](faturamento/configuracao/tipos-de-comissao.md)
+    * [Tipos de Comissão](faturamento/configuracao/comissao/tipos-de-comissao.md)
   * [Contabilidade](faturamento/configuracao/contabilidade/README.md)
     * [Diário](faturamento/configuracao/contabilidade/diario.md)
     * [Impostos](faturamento/configuracao/contabilidade/impostos.md)
