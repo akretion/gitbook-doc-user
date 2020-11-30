@@ -1,4 +1,4 @@
-# Modo de Pagamento
+# Configuração do Modo de Pagamento
 
 O Modo de Pagamento é o cadastro onde é possível informar como uma Fatura será paga ex.: Cheque, Dinheiro, etc ou no caso de um CNAB  Boleto Banco X, por isso é onde estão os dados especificos de cada Banco e CNAB usados pela empresa para cadastrar acesse :
 
@@ -28,11 +28,11 @@ Logo em seguida você pode informar uma Taxa que será adicionada como uma nova 
 
 ![](../.gitbook/assets/image%20%28182%29.png)
 
-Veja que existem outras opções, porém algumas não podem ser usadas e irão gerar uma mensagem de erro caso marcadas, Transações em grupo em ordens de pagamento\( pois no caso CNAB cada linha deve ser única \), campos abaixo Gerar entradas contábeis no envio do arquivo e Movimento de Publicação
+Veja que existem outras opções, porém algumas não podem ser usadas e irão gerar uma mensagem de erro caso marcadas, "Transações em grupo em ordens de pagamento"\( pois no caso CNAB cada linha deve ser única \), campos abaixo "Gerar entradas contábeis no envio do arquivo" e "Movimento de Publicação":
 
 ![](../.gitbook/assets/image%20%28155%29.png)
 
-Logo em seguida, caso o Metodo de Pagamento for referente ao CNAB, serão mostrados os campos referentes:
+Logo em seguida, caso o Método de Pagamento for referente ao CNAB, serão mostrados os campos referentes:
 
 ![](../.gitbook/assets/image%20%28150%29.png)
 
@@ -40,13 +40,13 @@ Logo em seguida, caso o Metodo de Pagamento for referente ao CNAB, serão mostra
 
 ![](../.gitbook/assets/image%20%28129%29.png)
 
-No Retorno do CNAB o programa precisa saber as Contas Contabeis que serão usadas para cada valor informado:
+No Retorno do CNAB o programa precisa saber as Contas Contábeis que serão usadas para cada valor informado:
 
 ![](../.gitbook/assets/image%20%28154%29.png)
 
-E como cada Banco CNAB pode usar Códigos distintos tanto para o Retorno quanto para Instrução do Movimento deverá ser informado os códigos de Retorno que irão gerar a Reconcilição \( liquidação \) e o Códigos de Instrução do Movimento para a Remessa \( envio do título \) e de Pedido de Baixa \( quando o valor é pago por fora do CNAB e a empresa precisa informar o Banco \)
+E como cada Banco CNAB pode usar Códigos distintos tanto para o Retorno quanto para Instrução do Movimento deverá ser informado os códigos de Retorno que irão gerar a Reconciliação \( liquidação \) e o Códigos de Instrução do Movimento para a Remessa \( envio do título \) e de Pedido de Baixa \( quando o valor é pago por fora do CNAB e a empresa precisa informar o Banco \)
 
-OBS.: Faltando os campos de Alteração do Vencimento, Abatimento, Cancelar Abatimento e os outros campos existententes que poderão ser usados dentro do programa.
+OBS.: Faltando os campos de Alteração do Vencimento, Abatimento, Cancelar Abatimento e os outros campos existentes que poderão ser usados dentro do programa.
 
 ![](../.gitbook/assets/image%20%28192%29.png)
 
