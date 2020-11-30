@@ -16,7 +16,7 @@ Clique na Aba Import related infos:
 
 ![](../.gitbook/assets/image%20%28156%29.png)
 
- A importção do arquivo poderá ser feita pela própria tela do Diário no botão "Import batch file":
+ A importação do arquivo poderá ser feita pela própria tela do Diário no botão "Import batch file":
 
 ![](../.gitbook/assets/image%20%28183%29.png)
 
