@@ -4,9 +4,9 @@ São os códigos usados pelo Banco para informar do que se trata a linha de reto
 
 Faturramento &gt; Configurações &gt; CNAB Return Move Code
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 Veja que apesar dos códigos 02 - Entrada Confirmada e 03 - Entrada Rejeitada serem, até agora, padrões nos Bancos e CNAB o código 01 - Pago \( Título protestado pago em cartório \) só é usado no banco Unicred o que mostra a falta de padrão.
 

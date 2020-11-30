@@ -6,9 +6,9 @@ Configurações &gt; Users & Companies &gt; Usuários
 
   
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
-![](../.gitbook/assets/image%20%28123%29.png)
+![](../.gitbook/assets/image%20%28144%29.png)
 
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28173%29.png)
 

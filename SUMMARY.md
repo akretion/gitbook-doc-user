@@ -109,6 +109,9 @@
 
 ## CNAB
 
+* [Exemplo de Pagamento Por Fora do CNAB](cnab/exemplo-de-pagamento-por-fora-do-cnab.md)
+* [Configuração do Retorno CNAB](cnab/configuracao-do-retorno-cnab.md)
+* [Exemplo de um Retorno de Arquivo CNAB](cnab/exemplo-de-um-retorno-de-arquivo-cnab.md)
 * [Exemplo de Geração de um Arquivo CNAB](cnab/exemplo-de-geracao-de-um-arquivo-cnab.md)
 * [Permissões de Acesso CNAB](cnab/permissoes-de-acesso-cnab.md)
 * [Endereço Servidor BRCobranca](cnab/endereco-servidor-brcobranca.md)
