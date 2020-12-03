@@ -32,7 +32,7 @@ Especialmente, você pode atribuir empresas e grupos de acesso para cada usuári
 
 ![](https://lh6.googleusercontent.com/HhX2-vBo-CD7YKv76CxWVUKKCyxPMC0wd3BZo7zzccskrEj1OpxbBpPlNZh7gQG6sbhZHeP-VdpXxhsNp_Uhoy7GgoTpXox--h9ALjjuXzyMiAClSmfqXTXwPJzWxhRpus27Y8uB)
 
-###  **Prestar atenção a preencher os usuários relacionados:**
+ Prestar atenção a preencher os usuários relacionados:
 
 ![](https://lh5.googleusercontent.com/gClWMXefWqiuLhsO_C79BHTvd4nu2gxnzQTZqKknxwuoAvpLxERUMQHuKmT4iDuo_ZkX6Ns7qSNPl26sqWsKOFjwXbITanWmyNhXGyTqaX8tPzfGrgQW7AqNvZu6q2nOitHyVPIw)
 
@@ -44,7 +44,7 @@ Se trata na verdade de uma categoria principal de produtos, aquela que é mais i
 
 ### **Unidades de medidas**
 
-Verificar se está tudo OK, especialmente as unidade de tempo usadas:
+Verificar se estiver tudo OK, especialmente as unidade de tempo usadas:
 
 ![](https://lh3.googleusercontent.com/GqCDkfXKT5DOU9DZdwEnsYGpTvu4AH6TWue0Y_RAq9AhxU73i-1uhkTC75MvAvX2AzaUsIwaKetPE6cHqSbOMgxAK0E9snnWrsU9svW55_lu0cpnx5iY1Co_kQb9QN_CBM0dxC8S)
 
@@ -88,7 +88,7 @@ Depois você pode relacionar um projeto a uma conta analítica para ter certeza 
 
 ### **Armazéns e locais?**
 
-Aconselhamos começar apenas com um so armazém e local dentro do armazém. Mas se isso não for possível, temos que conversar sobre para tomar as decisões certas.
+Aconselhamos começar apenas com um armazém só e um local dentro desse armazém. Mas se isso não for possível, temos que conversar sobre para tomar as decisões certas.
 
 ## **Documentação complementar**
 
@@ -103,7 +103,7 @@ Aconselhamos começar apenas com um so armazém e local dentro do armazém. Mas 
 
 [https://github.com/OCA/reporting-engine/tree/12.0/bi\_sql\_editor](https://github.com/OCA/reporting-engine/tree/12.0/bi_sql_editor)
 
-[https://github.com/OCA/mis-builder/tree/**12.0**](https://github.com/OCA/mis-builder/tree/12.0)
+[https://github.com/OCA/mis-builder/tree/12.0](https://github.com/OCA/mis-builder/tree/12.0)
 
  Odoo Experience 2017 \([slides](https://www.slideshare.net/acsone/budget-control-with-misbuilder-3-2017), [video](https://youtu.be/0PpxGAf2l-0)\)  
   
