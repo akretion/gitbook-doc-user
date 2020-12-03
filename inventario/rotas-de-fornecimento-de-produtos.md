@@ -4,7 +4,7 @@ description: >-
   no seu estoque.
 ---
 
-# Rotas de fornecimento de produtos
+# Rotas de produtos
 
 Com os módulos principais de Odoo \(Venda, Compra, Inventário e Manufatura\) aparece 3 opções de "Rotas", ou seja maneiras de aumentar o estoque do produto até uma certa quantidade :
 
