@@ -52,3 +52,17 @@ E essa _Lista de Material_ deve ser do tipo "_**Fabricar este produto**_" para r
 
 Se a _Lista de Material_ for do tipo "_Kit_", o sinal de aumento de quantidade do meu produto final vai apenas acionar outros sinais para aumentar as quantidades relacionadas de cada componente do _Kit_.
 
+## "Obter para Encomenda" \(MTO\) vs "Obter para Estoque" \(MTS\)
+
+Com os módulos básicos de Odoo você tem que escolher se o aumento de quantidade de produto será acionado por uma venda \(MTO\) desse produto **ou** pela _Regra de Recompra_ do produto indicando uma quantidade mínima para segurar \(MTS\).
+
+Se por engano você tiver ambos a rota "Obter para Encomenda" selecionada é uma Regra de Recompra definida para o seu produto, Odoo vai até seguir as duas rotas **sem nenhuma otimização** : um aumento de quantidade será acionado depois de uma venda do produto \(independentemente da quantidade no estoque\) e um outro aumento de quantidade será acionado quando o estoque do produto passar embaixo da quantidade mínima definida na _Regra de Recompra_ \(independentemente da quantidade que for vendida\).
+
+Para uma gestão otimizada desses ajustes de estoque, a Akretion desenvolveu [o módulo **"stock\_mts\_mto\_rule"**](https://github.com/OCA/stock-logistics-warehouse/tree/12.0/stock_mts_mto_rule) que permite acionar um aumento de quantidade de produto quando uma venda for confirmada **apenas se a quantidade desse produto não estiver presente no estoque :**
+
+{% embed url="https://github.com/OCA/stock-logistics-warehouse/tree/12.0/stock\_mts\_mto\_rule" %}
+
+\*\*\*\*
+
+
+
