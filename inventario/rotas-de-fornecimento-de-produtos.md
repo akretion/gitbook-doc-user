@@ -11,7 +11,7 @@ Com os módulos principais de Odoo \(_Venda_, _Compra_, _Inventário_ e _Manufat
 ![](../.gitbook/assets/image%20%28220%29.png)
 
 {% hint style="info" %}
-Obviamente, para se tratar de "quantidade de produto", o produto deve ser de **tipo "Produto"** \(e não "Consumível" nem "Serviço"\) para poder seguir o seu estoque.
+Obviamente, para se tratar de "quantidade de produto", o produto deve ser de **tipo "Produto"** \(e não "Consumível" nem "Serviço"\) para poder gerenciar o seu estoque.
 {% endhint %}
 
 Antes de tudo é muito importante entender que existe uma diferença entre as rotas que determinam **COMO** será realizado o ajuste de estoque e as rotas que determinam **QUANDO** será realizado esse ajuste.
