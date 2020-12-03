@@ -17,6 +17,10 @@
 * [PIM - Product Information Management](vendas/pim.md)
 * [Lista de Preços de venda](vendas/lista-de-precos.md)
 
+## 📦 Inventário
+
+* [Rotas de fornecimento de produtos](inventario/rotas-de-fornecimento-de-produtos.md)
+
 ## 🧾 Faturamento
 
 * [Faturas de Clientes](faturamento/faturas-de-clientes.md)
