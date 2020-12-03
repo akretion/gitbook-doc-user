@@ -1,7 +1,7 @@
 ---
 description: >-
-  Opções principais e básicas para aumentar a quantidade de um produto estocável
-  no seu estoque.
+  Opções principais e básicas para aumentar a quantidade de um produto no seu
+  estoque.
 ---
 
 # Rotas de fornecimento de produtos
