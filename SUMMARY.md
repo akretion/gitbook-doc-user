@@ -19,7 +19,7 @@
 
 ## 📦 Inventário
 
-* [Rotas de produtos](inventario/rotas-de-fornecimento-de-produtos.md)
+* [Rotas de fornecimento de produtos](inventario/rotas-de-fornecimento-de-produtos.md)
 
 ## 🧾 Faturamento
 
