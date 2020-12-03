@@ -8,7 +8,7 @@ description: >-
 
 Com os módulos principais de Odoo \(_Venda_, _Compra_, _Inventário_ e _Manufatura_\) aparece 3 opções de "Rotas" na ficha de cada produto. Uma rota é uma maneiras de aumentar o estoque do produto até uma certa quantidade :
 
-![](../.gitbook/assets/image%20%28219%29.png)
+![](../.gitbook/assets/image%20%28220%29.png)
 
 {% hint style="info" %}
 Obviamente, para se tratar de "quantidade de produto", o produto deve ser de **tipo "Produto"** \(e não "Consumível" nem "Serviço"\) para poder seguir o seu estoque.
@@ -26,25 +26,29 @@ A opção "_Obter para Encomenda_" \(tradução de _Make to Order - MTO_ em ingl
 * Se for selecionada, o aumento da quantidade do produto \(que seja por _Solicitação de Cotação_, _Ordem de Produção_ ou qualquer outra maneira\) será acionado **quando uma venda desse produto for confirmada**.
 * Se não for selecionada quer dizer que a opção padrão "_Obter para Estoque_" \(tradução de _Make to Stock - MTS_\) está ativa. Nesse caso o aumento da quantidade do produto será acionado **quando o estoque do produto passar embaixo de uma certa quantidade** mínima, definida no objeto _Regra de Recompra_ ligado ao produto :
 
-![](../.gitbook/assets/image%20%28218%29.png)
+![](../.gitbook/assets/image%20%28219%29.png)
 
-![](../.gitbook/assets/image%20%28217%29.png)
+![](../.gitbook/assets/image%20%28218%29.png)
 
 {% hint style="warning" %}
 Apesar do que o nome pode sugerir uma _Regra de Recompra_ não ativa necessariamente uma "**compra**" do produto para chegar na quantidade desejada.
 
-Pode ativar uma "**fabricação**" do produto ou qualquer outra maneira de fornecimento definida pela Rota que indica "COMO" será aumentada essa quantidade de produto.
+Pode ativar também uma "**fabricação**" do produto ou qualquer outra maneira de fornecimento definida pela Rota que indica "COMO" será aumentada essa quantidade de produto.
 {% endhint %}
 
 ## "Comprar" vs "Fabrico"
 
-Para que a rota "_Compra_" seja operacional, necessita pelo menos informar um fornecedor na aba "Compra" do produto :
+Para que a rota "_Compra_" seja operacional, necessita pelo menos **informar um fornecedor** na aba "Compra" do produto :
+
+![](../.gitbook/assets/image%20%28214%29.png)
+
+Do outro lado, para que a rota "_Fabrico_" seja operacional é necessário definir pelo menos uma "_**Lista de Material**_" associada ao produto :
 
 ![](../.gitbook/assets/image%20%28213%29.png)
 
-Do outro lado, para que a rota "Fabrico" seja operacional é necessário definir pelo menos uma "Lista de Material" associada ao produto :
+E essa _Lista de Material_ deve ser do tipo "_**Fabricar este produto**_" para realmente criar um objeto _Ordem de Produção_ quando o aumento de estoque for ativado :
 
-![](../.gitbook/assets/image%20%28215%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
-
+Se a _Lista de Material_ for do tipo "_Kit_", o sinal de aumento de quantidade do meu produto final vai apenas acionar outros sinais para aumentar as quantidades relacionadas de cada componente do _Kit_.
 
