@@ -10,7 +10,11 @@ Com os módulos principais de Odoo \(_Venda_, _Compra_, _Inventário_ e _Manufat
 
 ![](../.gitbook/assets/image%20%28219%29.png)
 
-É muito importante entender a diferença entre as rotas que determinam **COMO** será realizado o ajuste de estoque e as rotas que determinam **QUANDO** será realizado esse ajuste.
+{% hint style="info" %}
+Obviamente, para se tratar de "quantidade de produto", o produto deve ser de **tipo "Produto"** \(e não "Consumível" nem "Serviço"\) para poder seguir o seu estoque.
+{% endhint %}
+
+Antes de tudo é muito importante entender que existe uma diferença entre as rotas que determinam **COMO** será realizado o ajuste de estoque e as rotas que determinam **QUANDO** será realizado esse ajuste.
 
 As opções "_Comprar_" e "_Fabrico_" determinam **COMO será aumentado** a quantidade do produto :
 
@@ -32,13 +36,15 @@ Apesar do que o nome pode sugerir uma _Regra de Recompra_ não ativa necessariam
 Pode ativar uma "**fabricação**" do produto ou qualquer outra maneira de fornecimento definida pela Rota que indica "COMO" será aumentada essa quantidade de produto.
 {% endhint %}
 
-## "Compra" vs "Fabrico"
+## "Comprar" vs "Fabrico"
 
 Para que a rota "_Compra_" seja operacional, necessita pelo menos informar um fornecedor na aba "Compra" do produto :
 
 ![](../.gitbook/assets/image%20%28213%29.png)
 
-Do outro lado, para que a rota "Fabrico" seja operacional é necessário definir uma "Lista de Material" associada ao produto :
+Do outro lado, para que a rota "Fabrico" seja operacional é necessário definir pelo menos uma "Lista de Material" associada ao produto :
 
 ![](../.gitbook/assets/image%20%28215%29.png)
+
+
 
