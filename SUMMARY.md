@@ -16,6 +16,7 @@
 
 * [PIM - Product Information Management](vendas/pim.md)
 * [Lista de Preços de venda](vendas/lista-de-precos.md)
+* [Validação Dupla](vendas/double-validation.md)
 
 ## 📦 Inventário
 
