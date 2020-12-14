@@ -27,8 +27,6 @@ Antes de transformar uma cotação de venda em pedido de venda é adicionado um 
 
 Também é possível definir um valor do cotação de venda que exige uma segunda validação, ou seja qualquer cotação de venda que esteja abaixo deste valor não terá o segundo nivel de aprovação e todas as cotações de venda com valor superior será exigido a segunda aprovação.
 
-
-
 ![](../.gitbook/assets/screenshot-from-2020-12-14-12-05-51.png)
 
 {% hint style="info" %}
