@@ -4,7 +4,7 @@ description: Como configurar a validação dupla no pedido de venda
 
 # Validação Dupla
 
-É possivel configurar uma aprovação dupla na confirmação dos pedidos de venda, para configurar essa funcionalidade é necessário instalar o módulo [sale\_double\_validation](https://github.com/OCA/sale-workflow/blob/12.0/sale_double_validation).
+É possível configurar uma aprovação dupla na confirmação dos pedidos de venda, para configurar essa funcionalidade é necessário instalar o módulo [sale\_double\_validation](https://github.com/OCA/sale-workflow/blob/12.0/sale_double_validation).
 
 Para modificar a configuração de validação no pedido de venda, é necessário editar o cadastro de empresa.
 
