@@ -21,11 +21,11 @@ Abaixo do campo de Moeda, existe um campo com duas opções para definir a valid
 
 É a opção nativa do Odoo, onde existe apenas um nível de confirmação para transformar a cotação de venda em pedido de venda.
 
-### Definir dois niveis de aprovação para confirmar um pedido de venda
+### Definir dois níveis de aprovação para confirmar um pedido de venda
 
-Antes de transformar uma cotação de venda em pedido de venda é adicionado um status para segunda aprovação antes de tranformar a cotação de venda em pedido de venda.
+Antes de transformar uma cotação de venda em pedido de venda é adicionado um status para segunda aprovação antes de transformar a cotação de venda em pedido de venda.
 
-Também é possível definir um valor do cotação de venda que exige uma segunda validação, ou seja qualquer cotação de venda que esteja abaixo deste valor não terá o segundo nivel de aprovação e todas as cotações de venda com valor superior será exigido a segunda aprovação.
+Também é possível definir um valor do cotação de venda que exige uma segunda validação, ou seja qualquer cotação de venda que esteja abaixo deste valor não terá o segundo nível de aprovação e todas as cotações de venda com valor superior será exigido a segunda aprovação.
 
 ![](../.gitbook/assets/screenshot-from-2020-12-14-12-05-51.png)
 
