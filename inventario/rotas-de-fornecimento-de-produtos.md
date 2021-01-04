@@ -23,7 +23,7 @@ As opções "_Comprar_" e "_Fabrico_" determinam **COMO será aumentado** a quan
 
 A opção "_Obter para Encomenda_" \(tradução de _Make to Order - MTO_ em inglês\) determina **QUANDO será aumentado** a quantidade do produto :
 
-* Se for selecionada, o aumento da quantidade do produto \(que seja por _Solicitação de Cotação_, _Ordem de Produção_ ou qualquer outra maneira\) será acionado **quando uma venda desse produto for confirmada**.
+* Se for selecionada, o aumento da quantidade do produto \(que seja por _Solicitação de Cotação_, _Ordem de Produção_ ou qualquer outra maneira\) será acionado **quando uma venda desse produto for confirmada** ou quando uma ordem de produção for confirmada com esse produto dentro dos componentes.
 * Se não for selecionada quer dizer que a opção padrão "_Obter para Estoque_" \(tradução de _Make to Stock - MTS_\) está ativa. Nesse caso o aumento da quantidade do produto será acionado **quando o estoque do produto passar embaixo de uma certa quantidade** mínima, definida no objeto _Regra de Recompra_ ligado ao produto :
 
 ![](../.gitbook/assets/image%20%28219%29.png)
@@ -54,7 +54,7 @@ Se a _Lista de Material_ for do tipo "_Kit_", o sinal de aumento de quantidade d
 
 ## "Obter para Encomenda" \(MTO\) vs "Obter para Estoque" \(MTS\)
 
-Com os módulos básicos de Odoo você tem que escolher se o aumento de quantidade de produto será acionado por uma venda \(MTO\) desse produto **ou** pela _Regra de Recompra_ do produto indicando uma quantidade mínima para segurar \(MTS\).
+Com os módulos básicos de Odoo você tem que escolher se o aumento de quantidade de produto será acionado pela confirmação de um ordem de venda ou ordem de produção incluindo esse produto \(MTO\) **ou** pela _Regra de Recompra_ do produto indicando uma quantidade mínima para segurar \(MTS\).
 
 Se por engano você tiver ambos a rota "Obter para Encomenda" selecionada é uma Regra de Recompra definida para o seu produto, Odoo vai até seguir as duas rotas **sem nenhuma otimização** : um aumento de quantidade será acionado depois de uma venda do produto \(independentemente da quantidade no estoque\) e um outro aumento de quantidade será acionado quando o estoque do produto passar embaixo da quantidade mínima definida na _Regra de Recompra_ \(independentemente da quantidade que for vendida\).
 
