@@ -42,6 +42,18 @@ Il faut alors **confirmer le mouvement de stock** de réception du produit retou
 
 ![](../.gitbook/assets/image%20%28103%29.png)
 
+L'emplacement de destination de cette réception de produit est défini au moment de la création du RMA :
+
+![](../.gitbook/assets/image%20%28238%29.png)
+
+⚠️ Les emplacements proposés comme emplacement de réception sont seulement les emplacements **enfants des emplacements définis comme "RMA Location"** dans l'onglet des informations techniques des entrepôts de la société :
+
+![](../.gitbook/assets/image%20%28237%29.png)
+
+{% hint style="info" %}
+🔎 L'onglet des informations techniques d'un entrepôt ne s'affiche que si l'utilisateur appartient au groupe de sécurité _"Manage Push and Pull inventory flows"_ à cocher dans les paramètres techniques de l'utilisateur.
+{% endhint %}
+
 ## Actions après réception du produit retourné
 
 Une fois le produit reçu, Odoo propose 3 types d'actions explicites :
@@ -63,8 +75,4 @@ Une fois le produit reçu, Odoo propose 3 types d'actions explicites :
 {% hint style="info" %}
 Le suivi du _Numéro de Série_ ou du _Numéro de Lot_ des produit reçus et des produits retournés se gère au niveau des **mouvements de stock** entrant et sortant... comme pour des mouvements de stocks classiques.
 {% endhint %}
-
-
-
-
 
