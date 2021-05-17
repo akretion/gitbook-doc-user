@@ -2,9 +2,15 @@
 
 * [Documentation Odoo pour les utilisateurs](README.md)
 
+## 🚀 Généralités
+
+* [Recherches, Filtres et groupements](generalites/recherches-filtres-et-groupements.md)
+* [Position du chatter](generalites/position-du-chatter.md)
+
 ## 💳 Achats
 
-* [Purchase Landed Cost](achats/purchase-landed-cost.md)
+* [Coûts logistiques](achats/couts-logistiques/README.md)
+  * [v12 - Purchase Landed Cost](achats/couts-logistiques/purchase-landed-cost.md)
 * [Prix fournisseurs](achats/prix-fournisseurs.md)
 
 ## 🤝 Ventes
