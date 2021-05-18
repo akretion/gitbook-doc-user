@@ -5,6 +5,7 @@
 ## 🚀 Généralités
 
 * [Recherches, Filtres et groupements](generalites/recherches-filtres-et-groupements.md)
+* [Export de données](generalites/export-de-donnees.md)
 * [Position du chatter](generalites/position-du-chatter.md)
 
 ## 💳 Achats
