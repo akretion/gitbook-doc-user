@@ -2,7 +2,7 @@
 
 * [Documentation Odoo pour les utilisateurs](README.md)
 
-## 🚀 Généralités
+## 🌐 Généralités
 
 * [Recherches, Filtres et groupements](generalites/recherches-filtres-et-groupements.md)
 * [Export de données](generalites/export-de-donnees.md)
@@ -22,7 +22,7 @@
 
 ## 📦 Inventaire
 
----
+***
 
 * [Unités de Mesures](unites-de-mesures.md)
 * [Routes d'approvisionnement](routes-dapprovisionnement.md)
@@ -30,4 +30,3 @@
 ## 🔧 Fabrication
 
 * [Nomenclatures](fabrication/nomenclatures.md)
-
